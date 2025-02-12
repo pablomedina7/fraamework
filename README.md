@@ -1,4 +1,4 @@
-⚙️ Características del Framework
+⚙️ Características del Framework:
 ✔ Virtual DOM 
 ✔ Gestión de estado con FLUX 
 ✔ Suscripción automática para actualizar la UI 
